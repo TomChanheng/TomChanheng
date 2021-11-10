@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TomChanheng
 - 👀 I’m interested in Programming (Software)
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
